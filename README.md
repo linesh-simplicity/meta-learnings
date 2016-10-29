@@ -1,2 +1,22 @@
-# meta-learnings
-A repo contains couple of learning plans with each as a project and meta illustrated when combined.
+# Meta Learnings: GTD and PKM
+
+最近看了两个文章，一个是 ThoughtWorks 洞见上的[没有了老师，你该如何学习？](http://insights.thoughtworkers.org/how-to-study-without-teacher/)，它提到了四个点，把我散乱的困惑全串起来了：
+
+* 学什么：注重底层原理和高层解决方案的学习，因为它们相对稳定，变动不大；中层变动频繁的知识，项目用什么学什么
+* 怎么学：快速反馈、实践、反馈
+* 如何执行：GTD：收集、分类、计划、执行、反馈总结
+* 广度：PKM
+
+这解决了我一个长期的困惑，明白了要学习什么，定出了一个短期的目标，终于决定准备好了可以找熊节来聊 sponsor 的事情。目标制定出来了，也落实到长期、中期和短期的计划了，怎么解决执行的问题呢？总结了一下，原则十分简单：
+
+* 2分钟内能做完的事马上做
+* 1天内能做完的事记录下来，当天完成
+* 短期目标，细化到 calendar 中，制定成 task 加以跟踪，使用番茄工作法辅助执行
+* 中期目标，利用“21天习惯”原理，细化成每天重复任务，分解成短期任务加以实现
+* 长期目标，使用“愿望清单”法进行管理，进一步拆分成中期和短期目标加以跟踪和执行
+
+## GTD：计划与执行的分离
+
+痛点。
+
+## PKM：高效的知识管理
