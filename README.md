@@ -39,4 +39,26 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
 
 ## GTD：计划与执行的分离
 
-痛点。
+目标和规划有了，PKM 也有了，可以说，[这篇文章](http://www.mifengtd.cn/articles/runningcheese-gtd-system.html)则解决了剩下的唯一一个问题：如何分类任务并执行。前面提到，GTD 的几个核心的步骤为：
+
+* 搜集。工具方面，需要一个可以快速记录、随手可及、可以设定日期、可以可视化任务完成与否、与 calendar 集成的 todo 工具，我用的是[ticktick](https://ticktick.com/)
+* 分类、计划。四象限原则、时间资源进行任务裁剪
+* 执行。工具方面，需要一个可以将细化后的 task 自动化监督执行的工具，我用的是[pomotodo](https://pomotodo.com/app/)
+* 反馈总结。retrospective
+
+总结下来，当已经确定下一个中短期的目标，并且已经将其按四象限原则、时间资源等成本综合考虑进行了裁剪后，要将它们**细化成 task **并**自动化执行**的步骤为：
+
+1. 将细化后的 task 固定到每天的时段去，并且保证 ticktick 与 calendar 端的**实时**集成
+2. pomotodo 实时拉取 calendar 上的任务，并**自动化**地根据时段设定的任务启动 pomo
+
+## 痛点
+
+1. [GTD] 
+2. [GTD] Pomotodo 还只能单向推送到 Gmail，无法订阅 Gmail，也就无法自动根据 calendar 上的 task 安排执行 pomos
+3. [PKM] IFTTT 上的 evernote channel 没有开放保存全文的 API，一些 memo 类的文章无法从 Instapaper/Evernote 归档到 evernote，只能手动使用 Evernote Web Clipper 插件
+4. [GTD] 没有中长期目标的可视化支持。我希望它能在 ticktick 上体现出来：我中长期要做这个事，在短期上体现为哪个时间安排哪个计划。目前短期任务是零散的，而 workaround 也只能是我在这个 README 写下长期目标，通过 Github issue 管理我的中期目标。手动的方式既不灵活，也容易遗漏
+
+## 2016.11 - 2017.7 计划
+
+
+
