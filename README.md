@@ -56,9 +56,47 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
 1. [GTD] 
 2. [GTD] Pomotodo 还只能单向推送到 Gmail，无法订阅 Gmail，也就无法自动根据 calendar 上的 task 安排执行 pomos
 3. [PKM] IFTTT 上的 evernote channel 没有开放保存全文的 API，一些 memo 类的文章无法从 Instapaper/Evernote 归档到 evernote，只能手动使用 Evernote Web Clipper 插件
-4. [GTD] 没有中长期目标的可视化支持。我希望它能在 ticktick 上体现出来：我中长期要做这个事，在短期上体现为哪个时间安排哪个计划。目前短期任务是零散的，而 workaround 也只能是我在这个 README 写下长期目标，通过 Github issue 管理我的中期目标。手动的方式既不灵活，也容易遗漏
+4. [GTD] 没有中长期目标的可视化支持。我希望它能在 ticktick 上体现出来：我中长期要做这个事，在短期上体现为哪个时间安排哪个计划。目前短期任务是零散的，而 workaround 也只能是我在这个 README 写下长期目标，通过 Github issue/project 管理我的中期目标。手动的方式既不灵活，也容易遗漏
 
 ## 2016.11 - 2017.7 计划
 
-关于具体的方向，大熊说年轻可以不用纠结，心就定了一些。那么中期的目标，则在邱俊涛的[这篇文章](http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/)中得到了解答：作为 developer，你要对开发以外的上下游，即整个软件工程的流程都涉足，如此才能更系统地思考问题。
+关于具体的方向，大熊说年轻可以不用纠结，心就定了一些。那么中期的目标，则在邱俊涛的[这篇文章](http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/)中得到了解答：作为 developer，你要对开发以外的上下游，即整个软件工程的流程都涉足，如此才能更系统地思考问题。[这篇文章](http://insights.thoughtworkers.org/how-to-study-without-teacher/)则指出，首要学习底层和高层等稳定的知识，中层的项目用啥学啥。综上，大概得出了我接下来九个月的中期目标为：
 
+**了解开发的上游和下游**。
+
+### Upstream
+
+* [] 需求来源与分析
+* [] 用户体验（HTML/CSS）
+* [] 保险业务了解
+
+### Downstream
+
+* [] 持续集成
+  * [] git 
+  * [] github/stash
+  * [] jira/trello
+  * [] Jenkins/Travis
+* [] 持续部署
+  * [] API：Axway
+  * [] 负载均衡：F5/nginx
+  * [] 安全验证：OAuth/2FA
+  * [] 部署：AWS/S3/Cloud
+  
+以上主要不是了解技术多么深的细节，而是了解技术在流程中的作用。
+
+### Kore Developer Skills
+
+* [] 项目需求
+* [] Frontend
+  * [] JavaScript/ES6
+  * [] React
+* [] Backend
+  * [] 经典的MVC：Spring MVC
+  * [] API：REST
+  * [] TDD
+  * [] 测试体系与策略
+* [] Core
+  * [] Shell
+* [] Elegant MAC
+* [] Creativity: Painpoint resolving
