@@ -61,9 +61,9 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
 
 ## 2016.11 - 2017.7 计划
 
-关于具体的方向，大熊说年轻可以不用纠结，心就定了一些。那么中期的目标，则在邱俊涛的[这篇文章](http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/)中得到了解答：作为 developer，你要对开发以外的上下游，即整个软件工程的流程都涉足，如此才能更系统地思考和解决问题。[这篇文章](http://insights.thoughtworkers.org/how-to-study-without-teacher/)则指出，首要学习底层和高层等稳定的知识，中层的项目用啥学啥。综上，大概得出了我接下来九个月的中期目标为：
-
 项目地址：[https://github.com/linesh-simplicity/meta-learnings/projects/3?fullscreen=true](https://github.com/linesh-simplicity/meta-learnings/projects/3?fullscreen=true)
+
+关于具体的方向，大熊说年轻可以不用纠结，心就定了一些。那么中期的目标，则在邱俊涛的[这篇文章](http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/)中得到了解答：作为 developer，你要对开发以外的上下游，即整个软件工程的流程都涉足，如此才能更系统地思考和解决问题。[这篇文章](http://insights.thoughtworkers.org/how-to-study-without-teacher/)则指出，首要学习底层和高层等稳定的知识，中层的项目用啥学啥。综上，大概得出了我接下来九个月的中期目标为：
 
 **了解开发的上游和下游**。
 
