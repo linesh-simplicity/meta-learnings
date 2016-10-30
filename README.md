@@ -67,7 +67,7 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
 ### Upstream
 
 * [ ] 需求来源与分析
-* [ ] 用户体验（HTML/CSS）
+* [ ] 用户体验（HTML/CSS/UI Design）
 * [ ] 保险业务了解
 
 ### Downstream
@@ -100,3 +100,4 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
   * [ ] Shell
 * [ ] Elegant MAC
 * [ ] Creativity: Painpoint resolving
+* [ ] 英语
