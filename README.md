@@ -58,6 +58,7 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
 3. [GTD] 没有中长期目标的可视化支持。我希望它能在 ticktick 上体现出来：我中长期要做这个事，在短期上体现为哪个时间安排哪个计划。目前短期任务是零散的，而 workaround 也只能是我在这个 README 写下长期目标，通过 Github issue/project 管理我的中期目标。手动的方式既不灵活，也容易遗漏
 4. [PKM] 中心化订阅：微信公众号、微博动态、twitter 动态、youtube 待看视频等都希望能订阅成 RSS 到 Reeder 中
 5. [PKM] IFTTT 上的 evernote channel 没有开放保存全文的 API，一些 memo 类的文章无法从 Instapaper/Evernote 归档到 evernote，只能手动使用 Evernote Web Clipper 插件
+6. [GTD&PKM] 忘了
 
 ## 2016.11 - 2017.7 计划
 
