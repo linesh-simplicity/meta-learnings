@@ -56,6 +56,7 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
 1. [GTD] 
 2. [GTD] Pomotodo 还只能单向推送到 Gmail，无法订阅 Gmail，也就无法自动根据 calendar 上的 task 安排执行 pomos
 3. [GTD] 没有中长期目标的可视化支持。我希望它能在 ticktick 上体现出来：我中长期要做这个事，在短期上体现为哪个时间安排哪个计划。目前短期任务是零散的，而 workaround 也只能是我在这个 README 写下长期目标，通过 Github issue/project 管理我的中期目标。手动的方式既不灵活，也容易遗漏
+4. [GTD] Pomotodo Mac版慢成💩了。其实只需要一个 start pomo/break 的功能，附带时间归类分析功能，必须找 alternatives。
 4. [PKM] 中心化订阅：微信公众号、微博动态、twitter 动态、youtube 待看视频等都希望能订阅成 RSS 到 Reeder 中
 5. [PKM] IFTTT 上的 evernote channel 没有开放保存全文的 API，一些 memo 类的文章无法从 Instapaper/Evernote 归档到 evernote，只能手动使用 Evernote Web Clipper 插件
 6. [PKM] Troubleshooting 类资源：多来自 stackoverflow，我想保存待以后取用。但不想保存到 diigo 污染标注型的知识体系，保存到 evernote 又无法标注。应有专门的工具来做这个事
