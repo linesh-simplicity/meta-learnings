@@ -67,9 +67,16 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
 
 项目地址：[https://github.com/linesh-simplicity/meta-learnings/projects/3?fullscreen=true](https://github.com/linesh-simplicity/meta-learnings/projects/3?fullscreen=true)
 
-关于具体的方向，大熊说年轻可以不用纠结，心就定了一些。那么中期的目标，则在邱俊涛的[这篇文章](http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/)中得到了解答：作为 developer，你要对开发以外的上下游，即整个软件工程的流程都涉足，如此才能更系统地思考和解决问题。[这篇文章](http://insights.thoughtworkers.org/how-to-study-without-teacher/)则指出，首要学习底层和高层等稳定的知识，中层的项目用啥学啥。综上，大概得出了我接下来九个月的中期目标为：
+关于具体的方向，大熊说年轻可以不用纠结，心就定了一些。那么中期的目标，则在邱俊涛的[这篇文章](http://icodeit.org/2015/06/do-we-really-short-for-front-end-developer/)中得到了解答：作为 developer，你要对开发以外的上下游，即整个软件工程的流程都涉足，如此才能更系统地思考和解决问题。[这篇文章](http://insights.thoughtworkers.org/how-to-study-without-teacher/)则指出，首要学习底层和高层等稳定的知识，中层的项目用啥学啥。综上，得出我需要去了解**开发的上游和下游**。
 
-**了解开发的上游和下游**。
+但这个计划出来半个月后，我意识到这还是为了计划而计划，根本不 make sense。细思下来，当下最重要的是培养强大的技术统治力，什么上下游都还不触及核心。我认为当前最重要的，是后端 Java 的 TDD，以及前端 JavaScript 和 React。这是在一个构建企业级应用的上下文中来讲的。因此，调整计划：
+
+### Top Priority
+
+* [ ] React
+* [ ] JavaScript/ES6
+* [ ] TDD
+* [ ] 重构&设计模式
 
 ### Upstream
 
@@ -95,13 +102,9 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
 ### Kore Developer Skills
 
 * [ ] 项目需求
-* [ ] Frontend
-  * [ ] JavaScript/ES6
-  * [ ] React
 * [ ] Backend
   * [ ] 经典的MVC：Spring MVC
   * [ ] API：REST
-  * [ ] TDD
   * [ ] 测试体系与策略
 * [ ] Core
   * [ ] Shell
@@ -113,7 +116,7 @@ diigo 和 evernote 还能将资料库中相关的内容显示在 Google 搜索�
 
 出于某些不可描述的原因，这个板被我当成了重要想法的登记来源。最近在想法上，有为数不多但是值得好好吸收的输入：
 
-**Real control is surgical 大道无形，大音希声**
+**Real control is surgical 大道无形**
 
 这个想法来源有很多，对我影响最大的恐怕还是两台人工智能了：Samaritan/AlphaGo。有时候，人由于固有计算能力和思维能力的局限，无法排除一些固有思维的禁锢。这是作为人这个物种的局限，但可以意识并克服一些。主要是，人作为个体的情感、风格不可避免并且非常美丽，但是要注重从事物和时间的**广度**上来**深入**地思考一些事。李世石败战后也感慨，不可以靠感觉，要靠计算。
 
