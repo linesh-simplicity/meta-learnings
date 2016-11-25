@@ -4,8 +4,8 @@
   "description": "Brilliant learning using Github Project.",
   "main": "index.js",
   "scripts": {
-    "shell": "./shell/stash.sh",
-    "postinstall": "chmod +x ./shell/scripts-setup.sh && ./shell/scripts-setup.sh"
+    "shell": "./shell/path.sh",
+    "postinstall": "chmod +x ./shell/*.sh"
   },
   "repository": {
     "type": "git",
