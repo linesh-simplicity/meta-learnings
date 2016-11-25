@@ -1,0 +1,30 @@
+{
+  "name": "meta-learnings",
+  "version": "0.0.1",
+  "description": "Brilliant learning using Github Project.",
+  "main": "index.js",
+  "scripts": {
+    "shell": "./shell/stash.sh",
+    "postinstall": "chmod +x ./shell/scripts-setup.sh && ./shell/scripts-setup.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linesh-simplicity/meta-learnings.git"
+  },
+  "keywords": [
+    "meta",
+    "learning",
+    "pkm",
+    "gtd",
+    "shell",
+    "javascript",
+    "es6",
+    "shell"
+  ],
+  "author": "Linesh (Congyu Lin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linesh-simplicity/meta-learnings/issues"
+  },
+  "homepage": "https://github.com/linesh-simplicity/meta-learnings#readme"
+}
